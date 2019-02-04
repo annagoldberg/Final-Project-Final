@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Metric-Bold';
+  src: url('Metric-Bold.eot');
+  src: url('Metric-Bold.woff2') format('woff2'),
+       url('Metric-Bold.woff') format('woff'),
+       url('Metric-Bold.ttf') format('truetype'),
+       url('Metric-Bold.svg#Metric-Bold') format('svg'),
+       url('Metric-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

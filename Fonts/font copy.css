@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'ATCArquette-Regular';
+  src: url('ATCArquette-Regular.eot');
+  src: url('ATCArquette-Regular.woff2') format('woff2'),
+       url('ATCArquette-Regular.woff') format('woff'),
+       url('ATCArquette-Regular.ttf') format('truetype'),
+       url('ATCArquette-Regular.svg#ATCArquette-Regular') format('svg'),
+       url('ATCArquette-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
